@@ -1,2 +1,2 @@
 # homework-0
-My first Git hub repo
+My_first_Git_hub_repo
